@@ -1,6 +1,1 @@
-{
-"name": "stake4me",
-"description": "stake4me Swiss Staking Service",
-"ticker": "S4M",
-"homepage": "https://stake4me.com"
-}
+{"name": "stake4me", "ticker": "S4M", "description": "stake4me Swiss Staking Service", "homepage": "https://stake4me.com", "extended": "https://data.pooltool.io/md/e8dde134-ffc1-4ffb-be87-74de5bd7df50"}
